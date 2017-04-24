@@ -46,7 +46,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
         android:alpha="0"
-        android:background="@drawable/black_circle"
+        android:background="@drawable/black_oval"
         android:gravity="center"
         android:minWidth="120dp"
         android:paddingBottom="2dp"

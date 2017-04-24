@@ -1,13 +1,11 @@
 <resources>
-    <string name="app_name">Social</string>
+    <string name="app_name">Test</string>
 
-    <string name="facebook_app_id">114374722260093</string>
+    <string name="facebook_app_id">1565838457065192</string>
 
-    <!-- Tutorial -->
-    <string name="tutorial_text_0">When you log in, you are by default an <b>anonymous</b> user. The only thing we display to other users is your <b>@nickname</b>.</string>
-    <string name="tutorial_text_1">It is up to you to decide how u use the <b>app</b>, you can remove your account <b>anytime</b>.</string>
-    <string name="tutorial_text_2">This app is going to revolutionize your <b>@social</b> experience!</string>
-    <string name="tutorial_text_3">Log in with <b>facebook</b></string>
+
+    <!-- Splash Screen -->
+    <string name="internet_connection">Sprawdź czy urządzenie ma połączenie z internetem.</string>
 
     <!-- Update User Profile -->
     <string name="type_username_here"><b>@username</b></string>
@@ -16,4 +14,15 @@
     <string name="setup_your_username_here">Setup your <b>@username</b> here.\nIt is visible to all users in the app.</string>
     <string name="username_must_have_more_than">Username must be longer than 3 letters and can contain only letters or dots.</string>
     <string name="username_already_exists">Username already exists.</string>
+
+    <!-- Navigation Button -->
+    <string name="order">zamów</string>
+    <string name="tag">tag</string>
+    <string name="image">image</string>
+    <string name="plans">plans</string>
+
+    <!-- Tagging -->
+    <string name="distance">distance</string>
+    <string name="meters">meters</string>
+    <string name="kilometers">kilometers</string>
 </resources>

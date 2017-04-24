@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "169662558211",
+    "firebase_url": "https://kaktus-warsaw.firebaseio.com",
+    "project_id": "kaktus-warsaw",
+    "storage_bucket": "kaktus-warsaw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169662558211:android:90bfea228c267765",
+        "android_client_info": {
+          "package_name": "com.airnauts.kaktus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169662558211-gjjga0lj8n6hfjq8g2e3j8sbovop8l4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.airnauts.kaktus",
+            "certificate_hash": "6ADBFFB94BCDFF8E6AD82B1D4DB081FB8A8D98E0"
+          }
+        },
+        {
+          "client_id": "169662558211-j11i6uo7gl4mg5nnkir8v075s7kh8ubt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFY6UeQ5bCfBQg6exMhTZax2ndutJTZXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169662558211-j11i6uo7gl4mg5nnkir8v075s7kh8ubt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
