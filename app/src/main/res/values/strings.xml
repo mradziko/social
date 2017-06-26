@@ -5,6 +5,7 @@
 
 
     <!-- Splash Screen -->
+    <string name="login">Login</string>
     <string name="internet_connection">Sprawdź czy urządzenie ma połączenie z internetem.</string>
 
     <!-- Update User Profile -->

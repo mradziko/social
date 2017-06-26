@@ -8,4 +8,9 @@
 
     <color name="darkTextColor">#000000</color>
     <color name="redTextColor">#BB0000</color>
+
+    <color name="azure">#3B5998</color>
+    <color name="flamingo">#EB564F</color>
+    <color name="sinbad">#A3CFCC</color>
+
 </resources>

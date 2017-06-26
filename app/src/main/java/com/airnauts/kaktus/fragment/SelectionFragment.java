@@ -2,6 +2,7 @@ package com.airnauts.kaktus.fragment;
 
 import android.content.Context;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.PagerAdapter;
@@ -15,8 +16,10 @@ import android.widget.ImageView;
 import com.airnauts.kaktus.R;
 import com.airnauts.kaktus.model.facebook.Album;
 import com.airnauts.kaktus.model.facebook.Photo;
+import com.airnauts.kaktus.provider.StringProvider;
 import com.airnauts.kaktus.view.ViewPagerIndicator;
 import com.airnauts.kaktus.view.transformer.RotationalPageTransformer;
+import com.airnauts.toolkit.data.DataManager;
 import com.facebook.AccessToken;
 import com.facebook.GraphRequest;
 import com.facebook.GraphResponse;
@@ -145,4 +148,5 @@ public class SelectionFragment extends Fragment {
             ((ViewPager) container).removeView((View) view);
         }
     }
+
 }

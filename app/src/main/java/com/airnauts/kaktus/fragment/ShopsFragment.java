@@ -2,9 +2,11 @@ package com.airnauts.kaktus.fragment;
 
 import android.content.Context;
 import android.os.Bundle;
+import android.support.annotation.Nullable;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.RelativeLayout;
 
 import com.airnauts.kaktus.R;
 import com.airnauts.toolkit.config.PushNavigationFragmentConfig;
@@ -24,6 +26,7 @@ public class ShopsFragment extends PushNavigationFragment {
     protected PushNavigationFragmentConfig initConfig(Context context) {
         return new PushNavigationFragmentConfig.Builder("SHOPS").build();
     }
+
 
     @Override
     public View onCreateFragmentView(LayoutInflater layoutInflater, ViewGroup viewGroup, Bundle bundle) {
